@@ -1,2 +1,5 @@
 print("Hello world")
-print("new change")
+print("new change") 
+print("another new change")
+print("new commit for mail")
+print("new for push")
